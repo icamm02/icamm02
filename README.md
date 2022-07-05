@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @icamm02
+- 👀 I’m interested in data related field especially in marketing data
+- 🌱 I’m currently learning SQL,Analytical thinking,business domain and tableu
+- 💞️ I’m looking to collaborate on learning together about marketing & data
+- 📫 How to reach me www.linkedin.com/in/hisyamnashir 
